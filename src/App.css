@@ -1,0 +1,8 @@
+.task{
+  font-size: 10px;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 10px;
+}
